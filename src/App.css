@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.rojo{
+  background-color: red;
+}
+
+.App {
+  background-image: url('./imagen1.jpg');
+  background-size: cover;
+  background-position: center;
+}
 
 .App-header {
   background-color: #282c34;
